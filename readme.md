@@ -1,14 +1,14 @@
-Student Name: Tom Cavilla (tc707@Exeter.ac.uk) [720027960]
+Student Name: Tom Cavilla (tc707@Exeter.ac.uk)
 Supervisor: Marcos Oliviera (M.A.Oliviera@Exeter.ac.uk)
 
-This project contains all the code and data for my 3rd year dissertation project: Analysing the Contributions of Anonymous Editors on Wikipedia 
-This dissertation evaluated the behaviours, geographic distribution, and impact of anonymous editors on the online encyclopedia, Wikipedia. This
-analysis was performed on four themed lists, Countries, World Leaders, Top 100 International Brands and Olympic Sports. These lists were extracted
-from the following websites:
+This project contains all the code and data for my 3rd year dissertation project: Analysing the Contributions of Anonymous Editors on Wikipedia. This dissertation evaluated the behaviours, geographic distribution, and impact of anonymous editors on the online encyclopedia, Wikipedia. This analysis was performed on four themed lists, Countries, World Leaders, Top 100 International Brands and Olympic Sports. These lists were extracted from the following websites:
 
 Countries: https://www.un.org/en/about-us/member-states
+
 World Leaders: https://www.cia.gov/resources/world-leaders/foreign-governments/ (With the addition of Donald Trump - President of the United States)
+
 Brands: https://interbrand.com/best-global-brands/
+
 Olympic Sports: https://www.olympics.com/en/sports/
 
 
